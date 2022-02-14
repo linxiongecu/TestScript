@@ -1,0 +1,20 @@
+name: "Lin Xiong"
+output_dir: "."
+navbar:
+  title: "Code Page"
+  left:
+    - text: "GEDI"
+      href: gedi.html
+    - text: "GPS_OPUS"
+      href: opus.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/hopebear/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Houston_hopelin
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/lin-xiong-5b0393b4/
+output:
+  html_document:
+    theme: united
+    css: 'styles.css'
